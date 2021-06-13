@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fahmifj.github.io/my-blog/post/my-post/</loc>
-    <lastmod>2021-06-13T09:34:43+07:00</lastmod>
-  </url><url>
     <loc>https://fahmifj.github.io/my-blog/</loc>
-    <lastmod>2021-06-13T09:34:43+07:00</lastmod>
+    <lastmod>2021-06-13T10:55:48+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -24,6 +21,12 @@
                 />
   </url><url>
     <loc>https://fahmifj.github.io/my-blog/post/</loc>
+    <lastmod>2021-06-13T10:55:48+07:00</lastmod>
+  </url><url>
+    <loc>https://fahmifj.github.io/my-blog/post/second-post/</loc>
+    <lastmod>2021-06-13T10:55:48+07:00</lastmod>
+  </url><url>
+    <loc>https://fahmifj.github.io/my-blog/post/my-post/</loc>
     <lastmod>2021-06-13T09:34:43+07:00</lastmod>
   </url><url>
     <loc>https://fahmifj.github.io/my-blog/categories/</loc>
